@@ -13,9 +13,14 @@
 ## השינויים שביצענו:
   ### הסבר מפורט והבנה של המשחק:
   על השחקן לקפוץ על עשרה לבנות מבלי ליפול.
+  ![](https://github.com/S-K-Game/HW6--IceAge/blob/master/Assets/images/ex1.PNG)
+![](https://github.com/S-K-Game/HW6--IceAge/blob/master/Assets/images/ex2.PNG)
+![](https://github.com/S-K-Game/HW6--IceAge/blob/master/Assets/images/ex3.PNG)
+
   
   ### שני שחקנים:
   על השחקן לקפוץ על חמש עשרה לבנות מבלי ליפול
+![](https://github.com/S-K-Game/HW6--IceAge/blob/master/Assets/images/game.PNG)
 
   
   
@@ -23,6 +28,5 @@
 [*לחץ כאן על מנת לעבור למשחק*](https://s-k-games.itch.io/ice-age) 
 
 
-![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
 
 </div>
